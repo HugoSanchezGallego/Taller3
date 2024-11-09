@@ -2,7 +2,7 @@
 
 ## Enlace del repositorio ## Enlace del repositorio --> [https://github.com/HugoSanchezGallego/Taller3.git](https://github.com/HugoSanchezGallego/Taller3.git)
 
-Este proyecto es una aplicación Android construida usando Kotlin y Jetpack Compose. Demuestra el uso de Room para almacenamiento local de bases de datos, SharedPreferences para almacenar datos simples y navegación entre diferentes pantallas.
+Este proyecto es una aplicación Android construida usando Kotlin y Jetpack Compose. Demuestra el uso de SQLite para almacenamiento local de bases de datos, SharedPreferences para almacenar datos simples y navegación entre diferentes pantallas.
 
 ## Estructura del Proyecto
 
